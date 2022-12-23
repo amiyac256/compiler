@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ParserTester
-comment0.text=\n\ Tester\ for\ the\ Parser\ Class\n\ \n\n\ @author\ Amiya\ Chokhawala\n\ @version\ April\ 24,\ 2022\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-comment1.text=\n\ Main\ method\ for\ ParserTester\ class.\ \n\ \n\ @param\ \ \ args\ arguments\ from\ the\ command\ line\n
-numComments=2
