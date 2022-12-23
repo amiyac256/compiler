@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ProcedureCall
+comment0.text=\n\ Evaluates\ Procedure\ Calls\ \n\n\ @author\ Amiya\ Chokhawala\n\ @version\ April\ 19,\ 2022\n
+comment1.params=name\ args
+comment1.target=ProcedureCall(java.lang.String,\ java.util.List)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ProcedureCall\n
+comment2.params=n
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\n\ Sets\ the\ name\ of\ the\ procedure\ call\ \n\ \n\ @param\ n\ what\ it\ is\ being\ set\ to\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Returns\ the\ name\ of\ the\ procedure\ call\n\ \n\ @return\ name\ the\ name\ of\ the\ procedure\ call\ \n
+comment4.params=
+comment4.target=java.util.List\ getArgs()
+comment4.text=\n\ Returns\ the\ arguments\ of\ the\ procedure\ call\n\ \n\ @return\ args\ the\ argyments\ of\ the\ procedure\ call\ \n
+comment5.params=env
+comment5.target=java.lang.Integer\ eval(environment.Environment)
+comment5.text=\n\ Evaluates\ the\ Procedure\ Call\ \n\ \n\ @return\ the\ value\ after\ the\ procedure\ call\ is\ executed\n
+numComments=6
